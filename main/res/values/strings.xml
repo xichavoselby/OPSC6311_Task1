@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Authentication</string>
+    <string name="sign_up_page">Sign Up Page</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="submit">Submit</string>
+    <string name="login">Login</string>
+    <string name="home_page">Home Page</string>
+    <string name="sign_in_page">Sign In Page</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="cancel">Cancel</string>
+    <string name="welcome_to_my_pesronal_budget_app">Welcome To My Pesronal Budget App</string>
+    <string name="click_here_to_continue">Click Here To Continue</string>
+</resources>
